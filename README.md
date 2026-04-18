@@ -1,2 +1,2 @@
-# -Sort-the-People
-My solved Leetcode problems
+# -Sort-the-P
+My solved Leetcode problem
